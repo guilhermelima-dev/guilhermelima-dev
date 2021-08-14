@@ -12,7 +12,7 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-PH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="right" alt="CR7" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.mp4" width="256" height="128">
+  <img align="right" alt="CR7" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.mp4" redirect="true" width="256" height="128">
 </div>
   
   ##
