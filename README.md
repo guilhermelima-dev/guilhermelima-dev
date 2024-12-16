@@ -17,6 +17,5 @@
   ##
   
   <div> 
-  ![Snake animation]((https://github.com/rafaballerini/rafaballerini/blob/main/.github/workflows/cobrinha.yml))
  
 </div>
